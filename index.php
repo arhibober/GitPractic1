@@ -17,7 +17,7 @@
 
 <body>
     <div class="jumbotron text-center">
-        <h1>Lorem, ipsum.</h1>
+        <h1>Lorem, ipsum dolor.</h1>
     </div>
     <div class="container">
         <div class="slider single-item">
