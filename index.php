@@ -19,10 +19,12 @@
     <div class="jumbotron text-center">
         <h1>Lorem, ipsum.</h1>
     </div>
-    <div class="slider single-item">
-        <div><img src="./images/Girl-with-a-Pearl-Earring-canvas-Johannes-1665.jpg" alt=""></div>
-        <div><img src="./images/300px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg" alt=""></div>
-        <div><img src="./images/Screen-Shot-2021-08-24-at-11.33.06-AM.png" alt=""></div>
+    <div class="container">
+        <div class="slider single-item">
+            <div><img src="./images/Girl-with-a-Pearl-Earring-canvas-Johannes-1665.jpg" alt=""></div>
+            <div><img src="./images/300px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg" alt=""></div>
+            <div><img src="./images/Screen-Shot-2021-08-24-at-11.33.06-AM.png" alt=""></div>
+        </div>
     </div>
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
